@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reynoldnugroho.github.io/sitemap.xml
